@@ -125,6 +125,18 @@
         <!-- Sección Experiencia Laboral -->
         <section id="experiencia">
             <h2>Experiencia Laboral</h2>
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Área de Ventas</h5>
+                            <p class="card-text">Mi primera experiencia laboral fue en una dulcería, donde me desempeñé en el área de ventas. Allí aprendí a tratar directamente con los clientes, organizar productos y manejar caja, desarrollando habilidades de atención al público y responsabilidad.</p>
+                        </div>
+                    </div>
+                </div>
+
+
         </section>
 
         <!-- Sección Habilidades -->

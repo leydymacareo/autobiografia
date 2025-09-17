@@ -75,6 +75,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Lugar de Nacimiento y Familia</h5>
+                            <p class="card-text">Nací en Floridablanca, Santander. Soy hija de Nelson Macareo Gutierrez y Elsa Fuentes. Tengo dos hermanos mayores, Alexander y Nelson.</p>
+                        </div>
+                    </div>
+                </div>
+
                 
         </section>
 

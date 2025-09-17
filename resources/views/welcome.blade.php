@@ -93,6 +93,14 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Adolescencia</h5>
+                            <p class="card-text">En mi adolescencia fui una niña tímida y juiciosa, pero igual disfrutaba compartir con mis amigos, estudiaba en el colegio del pueblo de Los Santos. Me gustaba estar en casa, pero también divertirme con juegos, risas y conversaciones sencillas que hacían que todo fuera especial. Fue una etapa tranquila, de estudio y de buenos momentos rodeada de personas que quería.</p>
+                        </div>
+                    </div>
+                </div>
                 
         </section>
 

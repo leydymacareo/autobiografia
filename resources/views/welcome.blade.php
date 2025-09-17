@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Biografía</title>
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: #fdf7ff; /* fondo lila muy clarito */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        header {
+            background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+        }
+        section {
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0px 6px 12px rgba(162, 112, 255, 0.2);
+        }
+        h2 {
+            color: #8e44ad;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
+        }
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px rgba(174, 113, 255, 0.2);
+            transition: transform 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card-title {
+            color: #6a0dad;
+            font-weight: bold;
+        }
+        footer {
+            background: #a18cd1;
+            color: white;
+            border-top-left-radius: 30px;
+            border-top-right-radius: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Mi Biografía</h1>
+        <p class="lead">Proyecto en Laravel + GitHub</p>
+    </header>
+
+    <main class="container my-5">
+
+        <!-- Sección Biografía -->
+        <section id="biografia">
+            <h2>Biografía</h2>
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Nombre</h5>
+                            <p class="card-text">Leydy Yohana Macareo Fuentes</p>
+                        </div>
+                    </div>
+                </div>
+
+                
+        </section>
+
+        <!-- Sección Experiencia Laboral -->
+        <section id="experiencia">
+            <h2>Experiencia Laboral</h2>
+        </section>
+
+        <!-- Sección Habilidades -->
+        <section id="habilidades">
+            <h2>Habilidades</h2>
+        </section>
+
+        <!-- Sección Academia -->
+        <section id="academia">
+            <h2>Academia</h2>
+        </section>
+
+    </main>
+
+    <footer class="text-center py-4 mt-5">
+        <p>&copy; 2025 - Proyecto Biografía con Laravel & GitHub 💜</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

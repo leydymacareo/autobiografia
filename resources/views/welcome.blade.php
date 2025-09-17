@@ -160,6 +160,35 @@
         <!-- Sección Habilidades -->
         <section id="habilidades">
             <h2>Habilidades</h2>
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Habilidades Blandas</h5>
+                            <p class="card-text">Me considero una persona responsable, organizada y con facilidad para trabajar en equipo. Soy comunicativa, me adapto con rapidez a los cambios y mantengo una actitud positiva para afrontar retos, lo que me permite desenvolverme bien en diferentes entornos.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Habilidades en Administración</h5>
+                            <p class="card-text">Cuento con conocimientos básicos en administración, como manejo de documentos, coordinación de actividades y organización de procesos. Estas experiencias me han ayudado a desarrollar disciplina y atención al detalle en mis labores.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Habilidades en Ingeniería de Sistemas</h5>
+                            <p class="card-text">Como estudiante de Ingeniería de Sistemas, he adquirido bases en programación, análisis de datos y diseño digital. Me interesa seguir fortaleciendo estas competencias para aplicarlas en proyectos tecnológicos y en mi crecimiento profesional.</p>
+                        </div>
+                    </div>
+                </div>
+
         </section>
 
         <!-- Sección Academia -->

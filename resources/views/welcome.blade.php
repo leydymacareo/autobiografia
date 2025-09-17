@@ -135,6 +135,17 @@
         <!-- Sección Academia -->
         <section id="academia">
             <h2>Academia</h2>
+            <div class="row row-cols-1 row-cols-md-2 g-4">
+                
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Colegio Integrado Los Santos</h5>
+                            <p class="card-text">Cursé mis estudios de primaria y bachillerato en el Colegio Integrado Los Santos, donde aprendí mucho y viví experiencias importantes que marcaron mi crecimiento personal. Fue una etapa de amistades, aprendizajes y momentos que siempre recordaré con cariño.</p>
+                        </div>
+                    </div>
+                </div>
+
         </section>
 
     </main>

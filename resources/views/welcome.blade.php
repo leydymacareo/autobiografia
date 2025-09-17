@@ -145,6 +145,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Marketing y Diseño</h5>
+                            <p class="card-text">Actualmente sigo en la misma empresa, pero ahora apoyo en las áreas de marketing y diseño. Entre mis funciones se encuentran la creación de contenido, manejo de redes sociales y diseño de materiales digitales, lo que me ha permitido crecer profesionalmente y ampliar mis conocimientos en diferentes campos.</p>
+                        </div>
+                    </div>
+                </div>
+
 
         </section>
 

@@ -146,6 +146,14 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Universidad Autónoma de Bucaramanga – UNAB</h5>
+                            <p class="card-text">Actualmente estudio Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga (UNAB). Esta etapa ha sido un gran reto académico y personal, ya que me ha permitido adquirir nuevos conocimientos, desarrollar proyectos y avanzar en la preparación para mi futuro profesional.</p>
+                        </div>
+                    </div>
+                </div>
         </section>
 
     </main>

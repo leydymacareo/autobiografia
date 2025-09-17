@@ -110,6 +110,16 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Aspiraciones y Metas</h5>
+                            <p class="card-text">Mis aspiraciones están enfocadas en seguir creciendo profesionalmente, lograr graduarme como Ingeniera de Sistemas y abrirme camino en el mundo laboral con esfuerzo y dedicación. También deseo seguir conociéndome mejor a mí misma, fortalecer mis habilidades y crecer como persona, aprendiendo de cada experiencia para construir un futuro lleno de logros y satisfacción personal.</p>
+                        </div>
+                    </div>
+                </div>
+
         </section>
 
         <!-- Sección Experiencia Laboral -->

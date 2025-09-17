@@ -150,6 +150,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Habilidades en Ingeniería de Sistemas</h5>
+                            <p class="card-text">Como estudiante de Ingeniería de Sistemas, he adquirido bases en programación, análisis de datos y diseño digital. Me interesa seguir fortaleciendo estas competencias para aplicarlas en proyectos tecnológicos y en mi crecimiento profesional.</p>
+                        </div>
+                    </div>
+                </div>
+
         </section>
 
         <!-- Sección Academia -->

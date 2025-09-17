@@ -84,6 +84,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Niñez</h5>
+                            <p class="card-text">Crecí en La Mesa de los Santos, rodeada del cariño de mis papás y mis hermanos, quienes siempre me apoyaron y me hicieron sentir muy querida. Desde niña fui dedicada en el colegio y me gustaba aprender, pero también disfrutaba mucho de los juegos al aire libre, correr, inventar aventuras y compartir momentos sencillos que llenaban mi infancia de alegría.</p>
+                        </div>
+                    </div>
+                </div>
+
                 
         </section>
 

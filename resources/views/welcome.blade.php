@@ -102,6 +102,14 @@
                     </div>
                 </div>
                 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Actualidad</h5>
+                            <p class="card-text">En la actualidad vivo en Bucaramanga, donde trabajo en una empresa de desarrollo que me ha permitido crecer profesionalmente y poner en práctica lo que me apasiona. Además, estudio Ingeniería de Sistemas en la Universidad Autónoma de Bucaramanga, lo que representa un gran reto pero también una oportunidad para seguir aprendiendo y cumpliendo mis metas. Mi vida gira entre el estudio, el trabajo y el tiempo con mi familia, siempre buscando un equilibrio para seguir avanzando y alcanzar mis sueños.</p>
+                        </div>
+                    </div>
+                </div>
         </section>
 
         <!-- Sección Experiencia Laboral -->

@@ -141,6 +141,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Habilidades en Administración</h5>
+                            <p class="card-text">Cuento con conocimientos básicos en administración, como manejo de documentos, coordinación de actividades y organización de procesos. Estas experiencias me han ayudado a desarrollar disciplina y atención al detalle en mis labores.</p>
+                        </div>
+                    </div>
+                </div>
+
         </section>
 
         <!-- Sección Academia -->

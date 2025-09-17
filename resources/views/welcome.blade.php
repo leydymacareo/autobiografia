@@ -136,6 +136,15 @@
                     </div>
                 </div>
 
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Área Administrativa</h5>
+                            <p class="card-text">Posteriormente trabajé en una empresa de desarrollo, iniciando en el área administrativa. Mis funciones incluían apoyo en la gestión de documentos, coordinación de procesos internos y organización de actividades, lo que fortaleció mi disciplina y capacidad de trabajo en equipo.</p>
+                        </div>
+                    </div>
+                </div>
+
 
         </section>
 
